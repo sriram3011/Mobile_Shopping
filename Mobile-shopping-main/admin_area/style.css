@@ -1,0 +1,71 @@
+.admin-image {
+    width: 100px;
+    object-fit: contain;
+}
+.list1 {
+    text-decoration: none;
+    color: black;
+    font-family: 'Play', sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+#admin-name {
+    text-align: center;
+}
+.logo {
+    height: 50px;
+}
+#name {
+    font-family: "Sofia", sans-serif;
+    font-size:30px;
+    text-shadow: 3px 3px 3px white;
+    font-weight: 900;
+}
+.text-center {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+.nav-link {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 700;
+}
+#view {
+    text-decoration: none;
+    color: white;
+}
+.check {
+    width: 25px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+}
+.form-label:after {
+    content:"*";
+    color: red;
+}
+.form-label {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+#header {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.banner {
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 50px;
+}
+.banner_images {
+    height: 100px;
+    object-fit: contain;
+}
+.carousel-inner {
+    height: 100px;
+}
